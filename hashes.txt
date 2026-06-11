@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Scent On Pillow
+
+This log tracks the cryptographic history and versioning for the song **Your Scent On Pillow** (your-scent-on-pillow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T00:24:43.190292 | `v1` | `4cf710dd70a4dd0a715fa94ee5e4b78caa8501d612243f8410880bfe9464797c` | `2d7d44c7b01c14945e5d75fe314c9dbc2538e54265d31780c6ed59587ed623e3` | `2026-06-12_your-scent-on-pillow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
