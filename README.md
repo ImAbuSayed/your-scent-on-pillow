@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-on-pillow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Your Scent On Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-on-pillow/) |
+| **Get License** | [Get a Licensing Quote for Your Scent On Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-on-pillow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I still trace the shadow where you laid your head
+> Moonlight slowly fading on the edge of the bed
+> Tangled in the covers that we threw to the floor
+> Leaving me awake and always wanting you more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
