@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-scent-on-pillow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Your Scent On Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-on-pillow/) |
+| **Get License** | [Official Music Licensing for Your Scent On Pillow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-scent-on-pillow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3053)
 
 ---
 
